@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="eightDP">8dp</dimen>
+    <dimen name="twentySP">20sp</dimen>
+    <dimen name="twentyDP">20dp</dimen>
+    <dimen name="twentyfourDP">24dp</dimen>
+</resources>

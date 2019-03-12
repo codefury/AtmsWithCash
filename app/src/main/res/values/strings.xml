@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ATMs With Cash</string>
+    <string name="title_activity_main">ATMs With Cash</string>
+    <string name="find_atms_near_me">Find ATMs near me</string>
+    <string name="click_here_to_report_this_atm">Click here to report this ATM</string>
+</resources>
